@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sonic-terminal-328405",
+  "private_key_id": "b859e479984076e16e6e6c5d0623087f22c6ad62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/gow0rBAOC70U\nKfw/5fAofK4OUn1RIOlF5Ym1HsxU6G1+MY/6opZpfljSRqBvg1o2/GlXIrpujVjq\nhxzFJS2L4vY07EN+NHN4myJHO4VEyu1J9oofV/TAh3HOYJOZom3pBAW1nouguCVh\nfNZCHzZ3LY9+qyJ3Q8RbwRWRLjh52+RnwMCovmk1xjMygKbSWixR10uQDjDvYsIA\n1TCBY4NQBuOk+1Niew+iV+UBLha8OELEHASp0mg6/44QW3jcLZEPy1jWc81d3f9L\nnTX7CIOh/onf8MdLGUNl73s6A21KoycoWIWXe4ytIEDd/gdyqt1p55v5IKnBmTVn\nYZXgkf+BAgMBAAECggEABS/U+kw6txasTVKByX1Bzubpk+u6Byt8Be+cljI6WIZf\nCM7w1ln29u58G13cVIjbNagKdlizcfEUGm4EYnaKUEKaZn6LqWxkQDz7ZbCAAIf6\ne0lZHlY0g85nT66f8MZMccYxHWUo5PZ31Lcb2nib8ghi3YxnB5HnTJDjM6Zr0ykM\nZMgd0j8TLKhbqgZA2wCou3JXvbzgNeXNxDCjOw3emCW7V8M8WclNOxdAktjkZIqR\nt3CtohhaHCI84u0GUceT8T1UBEkdkDzX+iGvAzcbTpAqpaPT/t5dPuJb2ErHL/Rg\nHcGtrEVTkQMRxpTNtsYoWQbXLRXTKgPuoHoT/dL4UQKBgQD7Id8AxW/Zx6yk18Iw\nbU/e1jIL8PnkDkHbWdiji4sgFGGv0/37whNaSRjRhGfmYSraOL0CD8tXEAuocKSU\n4RjgXhhjcvb5xPqTnwqB2Q/RRJITzAkyoyKIGOm95ImPqWouhjdArWJSu1TAlliR\n57NewZOaiehZhrIli2aBOcHA/QKBgQDDONP2EHbh9y5sHi5mD3C9rNDHCZKmMASJ\ne84MpOuey63t8KLAnpSPXFmEi7TY5IEvJDFso9ZKERYTUdh1rTbEerXOW/gES2Fx\nTW7qO1aDG0zYd6PY6x70O+qqDtwohXM6YYvvG5FjuJcIn4pNXWj7h7TAZkch9PB8\n+plfX9wx1QKBgQC/1VnR7v/H7h1VNnNiJr5STHCiaouYx8NK2dEA7QFzmd4dP+TN\nwayi1R+ePHRZqXPgimLnBkWf1ePx4Un3aBNmoLokjZdXqD55MY4HLlZE1wp3EO8d\nvTwNlmpG4iKqmRFBRMlEIK3w4KSXEMHLgqCkC17DOAFDEf9Xaqr8n6//yQKBgAVc\nojW37gv2xgeiLJQRCH+tJ27QDH8UAovkIpymSvJplbVbTp0LvfjSCINjcuwiGoo4\n7EKXnWMbZQfSz6crwr1SwXuRexZjG6IJBmrYhl/DeDDZ2F401vzOSHuzPMjAIZIQ\n6879atjaUQujliDZ1/BQod5G8N015QUJvPypnVqhAoGALVls+sTKyd9GWx1bVBvY\nqL95DyXfH9VJcDyIRB86X9eO9T2wnjGocaK6FbYQCeK1udmvI0A29nYuNyShU81j\n4+ISNPoNwQMJYhQ0ke4+UErof+WhjCGG7zHAi8nQJkVAjG1nTl5a99a1QLpTlBtg\n1EBsgUS7Ith9E+5pGVzlAmw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sonic-terminal-328405@appspot.gserviceaccount.com",
+  "client_id": "107431618190517538099",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sonic-terminal-328405%40appspot.gserviceaccount.com"
+}
