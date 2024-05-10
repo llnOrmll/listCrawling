@@ -1,10 +1,8 @@
-#
-#
+##
 from google.cloud import bigquery
 from utils.list_scraper import eventList
 import time
 import os
-
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "path_to_service_account_credentials.json"
 
 def run_():
@@ -27,5 +25,3 @@ if __name__ == "__main__":
     start_time = time.time()
     run_()
     print("Update completed in {:.2f} seconds".format(time.time() - start_time))
-
-
