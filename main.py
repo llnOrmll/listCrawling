@@ -5,13 +5,12 @@ from utils.list_scraper import eventList
 import time
 import os
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = \
-"/Users/mac/PycharmProjects/listCrawling/keys/sonic-terminal-328405-b859e4799840.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "path_to_service_account_credentials.json"
 
 def run_():
     client = bigquery.Client()
     query_string = """
-        SELECT * FROM `sonic-terminal-328405.test.lastsearch`
+        SELECT * FROM `project.db.table`
         """
     df_his = (
         client.query(query_string).result().to_dataframe(create_bqstorage_client=True)
